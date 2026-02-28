@@ -28,9 +28,9 @@ It's not a chatbot. It's a memory keeper.
 
 ---
 
-## 🎬 Demo
+## 🎬 Live
 
-> [Add your video link here after recording]
+https://namanaryan9.github.io/embers/
 
 ---
 
